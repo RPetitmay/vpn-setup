@@ -3,7 +3,7 @@
 </p>
 
 <h1>Virtual Private Network Setup and Usage Within An Azure Virtual Machine</h1>
-This tutorial outlines the installation, setup and usage of the vpn software Proton VPN. <br />
+This tutorial outlines the installation, setup and usage of the vpn software called Proton VPN to observe various ip addresses within different regions worldwide. <br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -11,14 +11,12 @@ This tutorial outlines the installation, setup and usage of the vpn software Pro
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop (RDC/Windows App)
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDP, DNS, HTTP/S, ICMP)
-- <a href="https://www.wireshark.org/">Wireshark</a> (Protocol Analyzer)
-- Notepad/Notes App (Needed for saving usernames and passwords)
+- <a href="https://account.protonvpn.com/signup?plan=free&ref=noupsell">Proton VPN</a> 
+- Notepad/Notes App (Needed for saving usernames, passwords, and other information)
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
 
 <h2>List of Prerequisites</h2>
 
