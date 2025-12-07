@@ -31,5 +31,16 @@ This tutorial outlines the installation, setup and usage of the vpn software cal
 <img src="https://i.imgur.com/1HCgbw6.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-Before logging into to your vm, go this website () and make sure to copy/gather the information provided about the ip address of your pc/computer.
-Next sign into to your vm and go to the same website within your vm and copy/gather the information provided about the ip address of your vm.
+<h3>Capturing IP Address Information on Personal Computer and Virtual Machine</h3>
+<ol>
+  <li>
+    Before logging into your virtual machine (VM), visit 
+    <a href="https://whatismyipaddress.com/" target="_blank">https://whatismyipaddress.com/</a>.  
+    Record the IP address details of your local computer, including the city, region, and country.
+  </li>
+  <li>
+    Sign in to your VM and navigate to the same website:  
+    <a href="https://whatismyipaddress.com/" target="_blank">https://whatismyipaddress.com/</a>.  
+    Again, record the IP address information for the VM, including the city, region, and country.
+  </li>
+</ol>
