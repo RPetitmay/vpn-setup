@@ -80,7 +80,7 @@ This tutorial outlines the installation, setup and usage of the vpn software cal
 <img src="https://i.imgur.com/D8YT3UH.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
   <li>
-    Browse to several websites such as Google, Disney, or Amazon.  
+    Browse to any websites such as Google, Disney, Amazon or Netflix.  
     Observe whether the displayed language, URL, or site content differs based on the location of your selected VPN server.
   </li>
 </ol>
