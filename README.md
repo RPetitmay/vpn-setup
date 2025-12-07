@@ -45,3 +45,33 @@ This tutorial outlines the installation, setup and usage of the vpn software cal
     Again, record the IP address information for the VM, including the city, region, and country.
   </li>
 </ol>
+<h3>ProtonVPN Setup and Testing</h3>
+<ol>
+  <li>
+    On your local computer, sign up for the free version of ProtonVPN by visiting  
+    <a href="https://account.protonvpn.com/signup?plan=free&language=en" target="_blank">
+      https://account.protonvpn.com/signup?plan=free&language=en
+    </a>.
+  </li>
+
+  <li>
+    Within your virtual machine (VM), download and install the ProtonVPN client.
+  </li>
+
+  <li>
+    Log in to ProtonVPN at  
+    <a href="https://account.protonvpn.com/login" target="_blank">https://account.protonvpn.com/login</a>  
+    and connect to a VPN server located in a different country (e.g., Japan).
+  </li>
+
+  <li>
+    After connecting, navigate to  
+    <a href="https://whatismyipaddress.com/" target="_blank">https://whatismyipaddress.com/</a>  
+    and record the displayed IP address details in a text file.
+  </li>
+
+  <li>
+    Browse to several websites such as Google, Disney, or Amazon.  
+    Observe whether the displayed language, URL, or site content differs based on the location of your selected VPN server.
+  </li>
+</ol>
