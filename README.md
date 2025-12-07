@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img src="https://i.imgur.com/0c9c8rd.jpeg" alt="Traffic Examination"/>
 </p>
 
 <h1>Virtual Private Network Setup and Usage Within An Azure Virtual Machine</h1>
