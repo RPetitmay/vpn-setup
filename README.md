@@ -27,7 +27,10 @@ This tutorial outlines the installation, setup and usage of the vpn software cal
 
 <h2>Setup and Usage Proton VPN</h2>
 <p>
-<img src="https://i.imgur.com/1HCgbw6.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1HCgbw6.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/58at38N.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <h3>Capturing IP Address Information on Personal Computer and Virtual Machine</h3>
 <ol>
