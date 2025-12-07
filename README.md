@@ -11,7 +11,7 @@ This tutorial outlines the installation, setup and usage of the vpn software cal
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop (RDC/Windows App)
 - Various Command-Line Tools
-- <a href="https://account.protonvpn.com/signup?plan=free&ref=noupsell">Proton VPN</a> 
+- <a href="https://account.protonvpn.com/signup?plan=free&ref=noupsell">Proton VPN</a> (Free Plan) 
 - Notepad/Notes App (Needed for saving usernames, passwords, and other information)
 
 <h2>Operating Systems Used </h2>
@@ -24,4 +24,3 @@ This tutorial outlines the installation, setup and usage of the vpn software cal
 - Azure Subscription/Azure Account(Portal) created
 - Resource Group created within your Azure portal
 - Windows 10 Virtual Machine(Windows) created within your Azure portal with the resource group you've created previously
-- Linux Virtual Machine(Ubuntu) created within your Azure portal within the resource group <strong>*When creating the linux VM(Ubuntu),under the Networking tab,  make sure to select the same Virtual Network as the one you used for the Windows VM(windows-vm-vnet). If it doesn't appear as an option to be selected, refresh page*</strong>
