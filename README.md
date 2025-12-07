@@ -46,6 +46,9 @@ This tutorial outlines the installation, setup and usage of the vpn software cal
   </li>
 </ol>
 <h3>ProtonVPN Setup and Testing</h3>
+<p>
+<img src="https://i.imgur.com/lydn3pS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <ol>
   <li>
     On your local computer, sign up for the free version of ProtonVPN by visiting  
@@ -57,19 +60,25 @@ This tutorial outlines the installation, setup and usage of the vpn software cal
   <li>
     Within your virtual machine (VM), download and install the ProtonVPN client.
   </li>
-
+<p>
+<img src="https://i.imgur.com/6BvXcPg.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
   <li>
     Log in to ProtonVPN at  
     <a href="https://account.protonvpn.com/login" target="_blank">https://account.protonvpn.com/login</a>  
     and connect to a VPN server located in a different country (e.g., Japan).
   </li>
-
+<p>
+<img src="https://i.imgur.com/BT7Qd4K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
   <li>
     After connecting, navigate to  
     <a href="https://whatismyipaddress.com/" target="_blank">https://whatismyipaddress.com/</a>  
     and record the displayed IP address details in a text file.
   </li>
-
+<p>
+<img src="https://i.imgur.com/D8YT3UH.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
   <li>
     Browse to several websites such as Google, Disney, or Amazon.  
     Observe whether the displayed language, URL, or site content differs based on the location of your selected VPN server.
