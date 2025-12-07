@@ -3,7 +3,7 @@
 </p>
 
 <h1>Virtual Private Network Setup and Usage Within An Azure Virtual Machine</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+This tutorial outlines the installation, setup and usage of the vpn software Proton VPN. <br />
 
 
 <h2>Environments and Technologies Used</h2>
