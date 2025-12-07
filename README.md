@@ -26,3 +26,10 @@ This tutorial outlines the installation, setup and usage of the vpn software cal
 - Windows 10 Virtual Machine(Windows) created within your Azure portal with the resource group you've created previously
 
 <h2>Setup and Usage Proton VPN</h2>
+
+<p>
+<img src="https://i.imgur.com/1HCgbw6.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+Before logging into to your vm, go this website () and make sure to copy/gather the information provided about the ip address of your pc/computer.
+Next sign into to your vm and go to the same website within your vm and copy/gather the information provided about the ip address of your vm.
