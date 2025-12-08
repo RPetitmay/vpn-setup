@@ -45,7 +45,7 @@ This tutorial outlines the installation, setup and usage of the vpn software cal
     Again, record the IP address information for the VM, including the city, region, and country.
   </li>
 </ol>
-<h3>ProtonVPN Setup and Testing</h3>
+<h3>Connecting to VPN Servers and Browsing Websites and IP Addresses</h3>
 <p>
 <img src="https://i.imgur.com/lydn3pS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
